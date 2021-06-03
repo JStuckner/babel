@@ -3,6 +3,6 @@ Makes Russian text untranslatable by converting the UTF-8 characters to visually
 
 I made this for my wife so she can talk about American politics without pissing people off :)
 
-You can check it out [here](https://babel-226202.uc.r.appspot.com/)
+You can check it out [here](https://babel-226202.uc.r.appspot.com/). (Although it's deployed on a free GPC instance so it might be slow.)
 
 ![capture](image.JPG)
